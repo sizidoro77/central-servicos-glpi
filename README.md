@@ -38,11 +38,22 @@ Utilize as credenciais homologadas abaixo para validar os diferentes perfis de a
 1. Autentique-se com o perfil **Gabriel**.
 2. Clique em **"Criar um chamado"**, selecione a categoria desejada (Ex: *Redes* ou *Hardware*), preencha os detalhes da ocorrência e envie.
 
-### 📸 Demonstração do Ambiente
+### 4. 📸 Demonstração do Ambiente
 <br>
 <p align="center">
     <img src="./assents/Login.png" alt="Tela de Login do GLPI" width="45%">
-    <img src="./.github/example.png" alt="Painel de Controle" width="45%">
+    <img src="./assents/Criar chamado.png" alt="Painel de Controle" width="45%">
+</p>
+
+### 5. Simulação de Recebimento de chamado 
+1. Autentique-se com o perfil **Samuel** o Analista Técnico.
+2. Clique em **Assistência**, selecione o chamados para poder responder.
+
+<br>
+
+<p align="center">
+    <img src="./assents/Login.png" alt="Tela de Login do GLPI" width="45%">
+    <img src="./assents/Criar chamado.png" alt="Painel de Controle" width="45%">
 </p>
 
 ### 4. Resolução Técnica
