@@ -47,11 +47,6 @@ Logado como Usuário, clique em "Criar um chamado", selecione a categoria ex: Re
     <img src="../Captura de tela 2026-07-02 220452.png" alt="Image Example" width="400px">
     <img src="../.github/example.png" alt="Image Example" width="400px">
 </p>
-
-=======
     <img src="./assents/Login.png" alt="Image Example" width="400px">
     <img src="../.github/example.png" alt="Image Example" width="400px">
 </p>
-
-
->>>>>>> 827b29f (Commit colocando imagens)
