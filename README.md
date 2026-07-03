@@ -27,15 +27,6 @@
 
 Este projeto simula um ambiente corporativo de **Service Desk** utilizando o **GLPI**, permitindo demonstrar todas as etapas do ciclo de atendimento de um chamado, desde sua abertura pelo usuário até sua resolução pelo analista de suporte.
 
-## 💻 Tecnologias
-
-- **GLPI 10.x** – Gerenciamento de chamados e ativos de TI.
-- **PHP** – Linguagem da aplicação.
-- **Apache** – Servidor Web.
-- **MariaDB / MySQL** – Banco de Dados.
-
----
-
 ## 🚀 Instruções de Uso 
 
 Siga as etapas abaixo para acessar o laboratório e simular o fluxo completo de suporte:
