@@ -121,6 +121,17 @@ Após concluir o atendimento:
 
 ---
 
-# 👨‍💻 Autor
+<h2 id="colab">🤝 Collaborators</h2>
 
-**Samuel Izidoro**
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/61896274?v=4" width="100px;" alt="Fernanda Kipper Profile Picture"/><br>
+        <sub>
+          <b>Fernanda Kipper</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
