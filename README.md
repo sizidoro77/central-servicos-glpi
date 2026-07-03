@@ -42,3 +42,8 @@ Samuel | Senha: Sd112406
 <h3>Abertura do Chamado</h3>
 Logado como Usuário, clique em "Criar um chamado", selecione a categoria ex: Redes ou Hardware preencha a descrição do problema e envie.
 
+<p align="center">
+    <img src="../Captura de tela 2026-07-02 220452.png" alt="Image Example" width="400px">
+    <img src="../.github/example.png" alt="Image Example" width="400px">
+</p>
+
