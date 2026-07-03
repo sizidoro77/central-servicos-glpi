@@ -54,9 +54,9 @@ Utilize as credenciais homologadas abaixo para validar os diferentes níveis de 
 
 ---
 
-# 📋 Fluxo de Atendimento
+## 📋 Fluxo de Atendimento
 
-## 1. Login como Usuário
+### 1. Login como Usuário
 
 - Faça login utilizando o usuário **Gabriel**.
 
@@ -64,7 +64,7 @@ Utilize as credenciais homologadas abaixo para validar os diferentes níveis de 
     <img src="./assents/Login.png" alt="Tela de Login do GLPI" width="48%">
 </p>
 
-## 2. Abertura do Chamado
+### 2. Abertura do Chamado
 - Clique em **Criar um chamado**
 - Selecione uma categoria
 - Informe a descrição do problema
@@ -74,7 +74,7 @@ Utilize as credenciais homologadas abaixo para validar os diferentes níveis de 
       <img src="./assents/Criar chamado.png" alt="Painel de Criação de Chamado" width="48%">
 </p>
 
-## 3. Login como Analista
+### 3. Login como Analista
 
 Desconecte o usuário e faça login utilizando:
 
@@ -87,7 +87,7 @@ Senha: Sd112406
     <img src="./assents/Login Samuel.png" alt="Tela de Login do GLPI" width="48%">
 </p>
 
-## 4. Recebimento do Chamado
+### 4. Recebimento do Chamado
 
 Acesse: 
 
@@ -97,7 +97,6 @@ Acesse:
 <p align="center">
     <img src="./assents/Recebimento do chamado.png" alt="Painel de Criação de Chamado" width="48%">
 </p>
----
 
 ---
 
@@ -105,29 +104,29 @@ Acesse:
 
 Durante o atendimento o analista deverá:
 
-1. Assumir o chamado
-2. Alterar o status para **Em Atendimento**
-3. Registrar o diagnóstico
-4. Inserir a solução aplicada
-5. Atualizar o histórico do ticket
+- Assumir o chamado
+- Alterar o status para **Em Atendimento**
+- Registrar o diagnóstico
+- Inserir a solução aplicada
+- Atualizar o histórico do ticket
 
-## 6. Encerramento
+### 6. Encerramento
 
 Após concluir o atendimento:
 
-1. Altere o status para **Solucionado**
-2. Feche o chamado
-3. Valide o histórico de atendimento
+- Altere o status para **Solucionado**
+- Feche o chamado
+- Valide o histórico de atendimento
 
 ---
 
-<h2 id="colab">🤝 Collaborators</h2>
+<h2 id="colab">🤝 Collaborator</h2>
 
 <table>
   <tr>
     <td align="center">
-      <a href="#">
-        <img src="./assents/foto de perfil.png" width="100px;" alt="Samuel Izidoro Profile Picture"/><br>
+      <a href="https://github.com/sizidoro77">
+        <img src="./assents/foto de perfil.png" width="120px;" alt="Samuel Izidoro"/><br>
         <sub>
           <b>Samuel Izidoro</b>
         </sub>
