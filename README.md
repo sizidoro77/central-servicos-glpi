@@ -127,9 +127,9 @@ Após concluir o atendimento:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/61896274?v=4" width="100px;" alt="Fernanda Kipper Profile Picture"/><br>
+        <img src="./assents/foto de perfil.png" width="100px;" alt="Samuel Izidoro Profile Picture"/><br>
         <sub>
-          <b>Fernanda Kipper</b>
+          <b>Samuel Izidoro</b>
         </sub>
       </a>
     </td>
