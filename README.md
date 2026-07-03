@@ -38,15 +38,15 @@ Utilize as credenciais homologadas abaixo para validar os diferentes perfis de a
 1. Autentique-se com o perfil **Gabriel**.
 2. Clique em **"Criar um chamado"**, selecione a categoria desejada (Ex: *Redes* ou *Hardware*), preencha os detalhes da ocorrência e envie.
 
+### 📸 Demonstração do Ambiente
+<br>
+<p align="center">
+    <img src="./assents/Login.png" alt="Tela de Login do GLPI" width="45%">
+    <img src="./.github/example.png" alt="Painel de Controle" width="45%">
+</p>
+
 ### 4. Resolução Técnica
 1. Desconecte-se e faça login com o perfil **Samuel**.
 2. Localize o chamado no painel de controle, assuma o ticket, insira a solução técnica e encerre o atendimento.
 
 ---
-
-## 📸 Demonstração do Ambiente
-
-<p align="center">
-    <img src="./assents/Login.png" alt="Tela de Login do GLPI" width="45%">
-    <img src="./.github/example.png" alt="Painel de Controle" width="45%">
-</p>
