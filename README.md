@@ -1,52 +1,52 @@
-<h1 align="center" style="font-weight: bold;">Central Serviços GLPI 💻</h1>
+<h1 align="center" style="font-weight: bold;">Central de Serviços GLPI 💻</h1>
+
 <p align="center">
-    <img src="./.github/logo.png" width="200px">
+    <img src="./.github/logo.png" width="180px" alt="GLPI Logo">
 </p>
 
 <p align="center">
-<b>Este projeto consiste no ambiente de Service Desk GLPI pronto para otimizar chamados e inventário de TI. 🚀🛠️</b>
+    <b>Ambiente de Service Desk baseado em GLPI para otimização de chamados e inventário de TI. 🚀🛠️</b>
 </p>
 
-<h2 id="templates">💻 Tecnologias</h2>
+---
 
-- **GLPI Version 10.x:** Sistema core de gestão de chamados e inventário.
-- **Stack LAMP/WAMP:** Servidor Web (Apache), Banco de Dados (MariaDB/MySQL) e interpretador PHP.
-- **Ambiente de Hospedagem:** Virtualizado via Hyper-V / VMware utilizando uma distribuição Linux (Ubuntu Server).
+## 💻 Tecnologias e Infraestrutura
 
-<h2 id="started">🚀 Instruções de Uso</h2>
+*   **GLPI (v10.x):** Core do sistema para gerenciamento de chamados (ITSM) e governança de ativos.
+*   **Stack LAMP/WAMP:** Infraestrutura base utilizando Apache (Servidor Web), MariaDB/MySQL (Banco de Dados) e PHP.
+*   **Ambiente de Hospedagem:** Virtualização isolada via Hyper-V / VMware rodando Ubuntu Server.
 
-Siga as etapas abaixo para acessar o ambiente e simular o fluxo de atendimento:
+---
 
-<h3>Acesso ao Sistema</h3>
+## 🚀 Instruções de Uso
 
-```bash
-http://localhost/glpi/front/central.php
-```
+Siga as etapas abaixo para acessar o laboratório e simular o fluxo de atendimento:
 
-<h3>Autenticação de Teste</h3>
+### 1. Acesso ao Sistema
+Abra o seu navegador e acesse a interface central do sistema:
+> [http://localhost/glpi/front/central.php](http://localhost/glpi/front/central.php)
 
-Realize o login utilizando uma das credenciais homologadas no laboratório
+### 2. Autenticação de Teste
+Utilize as credenciais homologadas abaixo para validar os diferentes perfis de acesso:
 
-Perfil Usuário (Login):
+| Perfil | Usuário (Login) | Senha |
+| :--- | :--- | :--- |
+| **Usuário Final (Requerente)** | `Gabriel` | `Sd112406` |
+| **Analista Técnico (Suporte)** | `Samuel` | `Sd112406` |
 
-```bash
-Gabriel | Senha: Sd112406
-```
+### 3. Simulação de Abertura de Chamado
+1. Autentique-se com o perfil **Gabriel**.
+2. Clique em **"Criar um chamado"**, selecione a categoria desejada (Ex: *Redes* ou *Hardware*), preencha os detalhes da ocorrência e envie.
 
-Perfil Técnico (Suporte):
+### 4. Resolução Técnica
+1. Desconecte-se e faça login com o perfil **Samuel**.
+2. Localize o chamado no painel de controle, assuma o ticket, insira a solução técnica e encerre o atendimento.
 
-```bash
-Samuel | Senha: Sd112406
-```
+---
 
-<h3>Abertura do Chamado</h3>
-Logado como Usuário, clique em "Criar um chamado", selecione a categoria ex: Redes ou Hardware preencha a descrição do problema e envie.
+## 📸 Demonstração do Ambiente
 
 <p align="center">
-<<<<<<< HEAD
-    <img src="../Captura de tela 2026-07-02 220452.png" alt="Image Example" width="400px">
-    <img src="../.github/example.png" alt="Image Example" width="400px">
-</p>
-    <img src="./assents/Login.png" alt="Image Example" width="400px">
-    <img src="../.github/example.png" alt="Image Example" width="400px">
+    <img src="./assents/Login.png" alt="Tela de Login do GLPI" width="45%">
+    <img src="./.github/example.png" alt="Painel de Controle" width="45%">
 </p>
