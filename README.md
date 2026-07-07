@@ -111,7 +111,7 @@ Após concluir o atendimento:
 
 ---
 
-<h2 id="colab">🤝 Collaborator</h2>
+<h2 id="colab">🤝 Colaborador</h2>
 
 <table>
   <tr>
